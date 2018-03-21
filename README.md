@@ -12,6 +12,7 @@ MATLAB program which introduces successive alterations to a geometric surface in
 ## I. What is Curvature Flow?
 Curvature flow is a process which introduces successive alterations to geometric surfaces in order to de-noise (smoothen) the geometry.
 The process starts with a certain initial shape, and over time by utilizing Euler’s and finite difference methods, we can plot the curve  with respect to time at various points on a parameter. Our end result should resemble a smooth and uniform surface, like a circle. 
+![image](https://user-images.githubusercontent.com/9776844/37691586-5dd71142-2c89-11e8-96c5-0001da87c965.png)
 
 ## II. Program Mechanics
 The program is split up into a series of functions:
