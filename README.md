@@ -50,8 +50,13 @@ In order to tabulate the error and order of accuracy of my algorithm, I calculat
 ![curvature flow](https://user-images.githubusercontent.com/9776844/37691757-7274b1da-2c8a-11e8-9a6b-5f70c206754a.PNG)
 
 The number of time steps, N, is shown to heavily influence the resulting calculation and error. 
+
 N = 100 ... Result = 17.7667 ... Error = 16.6563
+
 N = 200 ... Result = 8.8833 ... Error = 7.7729
+
 N = 400 ... Result = 4.4417 ... Error = 3.3313
+
 N = 800 ... Result = 2.2208 ... Error = 1.1104
+
 N = 1600 ... Result = 1.1104 ... Error = 0.000
